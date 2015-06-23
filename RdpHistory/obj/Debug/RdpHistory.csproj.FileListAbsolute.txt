@@ -1,0 +1,6 @@
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\bin\Debug\RdpHistory.exe.config
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\bin\Debug\RdpHistory.exe
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\bin\Debug\RdpHistory.pdb
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\obj\Debug\RdpHistory.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\obj\Debug\RdpHistory.exe
+c:\users\mark\documents\visual studio 2013\Projects\RdpHistory\RdpHistory\obj\Debug\RdpHistory.pdb
